@@ -549,10 +549,13 @@
                                     "sxr-1x-44s",
                                     "sxr1d32d",
                                     "sxr-1d-32d",
+                                    "sxr-1-32d",
                                     "ixrx1b",
                                     "ixr-x1b",
                                     "ixrx3b",
-                                    "ixr-x3b"
+                                    "ixr-x3b",
+                                    "ixr-x4",
+                                    "ixr-x4-d"
                                 ]
                             }
                         }
@@ -2031,7 +2034,7 @@
                         "cisco_iol": {
                             "$ref": "#/definitions/node-config"
                         },
-                        "cisco_8000": {
+                        "cisco_c8000": {
                             "$ref": "#/definitions/node-config"
                         },
                         "cisco_c8000v": {
